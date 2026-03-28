@@ -1,4 +1,4 @@
-# 🥐Tours Les Jours Schedule App🥖
+# 🥐Tous Les Jours Schedule App🥖
 
 I am currently developing a mobile scheduling app for Tours Les Jours employees and managers. The purpose of this app is to make scheduling easier by giving users one place to log in, view schedules, and manage work-related scheduling tasks.
 
